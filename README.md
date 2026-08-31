@@ -1,5 +1,8 @@
+NAME:HEMANTH A
+
+REG NO :212223220035
 # EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
+EXPT NO: 3 STAIR CASE WIRING                     
 
  
 AIM
@@ -39,12 +42,26 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+Direct connection: 
 
-Tabulation:2
+CIRCUIT DIAGRAM: 
+<img width="1155" height="476" alt="image" src="https://github.com/user-attachments/assets/1e7470aa-3351-47ac-8998-219b75768611" />
+
+<img width="1167" height="495" alt="image" src="https://github.com/user-attachments/assets/9c16afdb-5de8-465b-9ce0-9d50c547d8e5" />
+
+Tabulation:
+<img width="1600" height="1042" alt="image" src="https://github.com/user-attachments/assets/0dcd883d-5156-48e4-ab0c-c0aa98e3c5a2" />
+	
+Cross connection: 
+
+CIRCUIT DIAGRAM:
+<img width="1183" height="505" alt="image" src="https://github.com/user-attachments/assets/ce3bb056-e6f4-4bdc-b473-749caa96acd7" />
+
+<img width="1161" height="479" alt="image" src="https://github.com/user-attachments/assets/75acdffd-ff5f-4f7f-b95e-efd36ff9f794" />
+
+
+Tabulation:
+<img width="1568" height="860" alt="WhatsApp Image 2026-08-18 at 2 46 11 PM" src="https://github.com/user-attachments/assets/e8f06980-a229-4328-876d-7e27d9873b3c" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
